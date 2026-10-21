@@ -704,3 +704,11 @@ contributions help keep development going and make this work possible.
 - [@michele-lorenzoni](https://github.com/michele-lorenzoni) — $10 (Nov
   26, 2024)
 - [@skillerious](https://github.com/skillerious) — $10 (Aug 17, 2024)
+
+## Running the tests
+
+Run the tests with Deno:
+
+```sh
+deno task test
+```
